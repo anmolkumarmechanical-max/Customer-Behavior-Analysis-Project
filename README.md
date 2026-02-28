@@ -27,10 +27,9 @@ This project analyzes customer shopping behavior using Python, SQL Server, and P
 ---
 
 ## 📈 Dashboard Insights
+The Insights include the variation of (Average Purchase Amount, Average Review Rating, Total Customers) with respect different gender.
 
-- Average Purchase Amount
-- Average Review Rating
-- Total Customers
+Whereas on an overall basis
 - Clothing generates highest revenue
 - Young Adults contribute highest revenue
 
